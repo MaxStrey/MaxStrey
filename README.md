@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxStrey
-- 👀 I’m interested in learing Julia.
-- 🌱 I’m currently learning NMR physics and signal processing
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me maximilian.strey@cooper.edu
 
