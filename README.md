@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me maximilian.strey@cooper.edu
+- 📫 How to reach me maximilian.strey@gmail.com
 
 <!---
 MaxStrey/MaxStrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
